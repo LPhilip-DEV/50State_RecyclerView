@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MAD_Ind05_Philip_Lijo</string>
+
+    <string name="alabama">50,744 Sq. Miles</string>
+    <string name="alaska">571,951 Sq. Miles</string>
+    <string name="arizona">113,635 Sq. Miles</string>
+    <string name="arkansas">52,068 Sq. Miles</string>
+    <string name="california">155,959 Sq. Miles</string>
+    <string name="colorado">103,718 Sq. Miles</string>
+    <string name="connecticut">4,845 Sq. Miles</string>
+    <string name="delaware">1,954 Sq. Miles</string>
+    <string name="florida">53,927 Sq. Miles</string>
+    <string name="georgia">57,906 Sq. Miles</string>
+    <string name="hawaii">6,423 Sq. Miles</string>
+    <string name="idaho">82,747 Sq. Miles</string>
+    <string name="illinois">55,584 Sq. Miles</string>
+    <string name="indiana">35,867 Sq. Miles</string>
+    <string name="iowa">55,869 Sq. Miles</string>
+    <string name="kansas">81,815 Sq. Miles</string>
+    <string name="kentucky">39,728 Sq. Miles</string>
+    <string name="louisiana">43,562 Sq. Miles</string>
+    <string name="maine">30,862 Sq. Miles</string>
+    <string name="maryland">9,774 Sq. Miles</string>
+    <string name="massachusetts">7,840 Sq. Miles</string>
+    <string name="michigan">56,804 Sq. Miles</string>
+    <string name="minnesota">79,610 Sq. Miles</string>
+    <string name="mississippi">46,907 Sq. Miles</string>
+    <string name="missouri">68,886 Sq. Miles</string>
+    <string name="montana">145,552 Sq. Miles</string>
+    <string name="nebraska">76,872 Sq. Miles</string>
+    <string name="nevada">109,826 Sq. Miles</string>
+    <string name="new_hampshire">8,968 Sq. Miles</string>
+    <string name="new_jersey">7,417 Sq. Miles</string>
+    <string name="new_mexico">121,356 Sq. Miles</string>
+    <string name="new_york">47,214 Sq. Miles</string>
+    <string name="north_carolina">48,711 Sq. Miles</string>
+    <string name="north_dakota">68,976 Sq. Miles</string>
+    <string name="ohio">40,948 Sq. Miles</string>
+    <string name="oklahoma">68,667 Sq. Miles</string>
+    <string name="oregon">95,997 Sq. Miles</string>
+    <string name="pennsylvania">44,817 Sq. Miles</string>
+    <string name="rhode_island">1,045 Sq. Miles</string>
+    <string name="south_carolina">30,109 Sq. Miles</string>
+    <string name="south_dakota">75,885 Sq. Miles</string>
+    <string name="tennessee">41,217 Sq. Miles</string>
+    <string name="texas">261,797 Sq. Miles</string>
+    <string name="utah">82,144 Sq. Miles</string>
+    <string name="vermont">9,250 Sq. Miles</string>
+    <string name="virginia">39,594 Sq. Miles</string>
+    <string name="washington">66,544 Sq. Miles</string>
+    <string name="west_virginia">24,078 Sq. Miles</string>
+    <string name="wisconsin">54,310 Sq. Miles</string>
+    <string name="wyoming">97,100 Sq. Miles</string>
+
+
+</resources>
